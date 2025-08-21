@@ -78,6 +78,10 @@ print Emma;
 define("Person","A person coding");
 echo Person;
 
+// version constant
+echo PHP_VERSION
+
+
 // PHP OPERATORS
 $x = 10;
 $y = 5;
