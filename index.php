@@ -79,7 +79,7 @@ define("Person","A person coding");
 echo Person;
 
 // version constant
-echo PHP_VERSION
+echo PHP_VERSION;
 
 
 // PHP OPERATORS
